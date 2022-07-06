@@ -10,7 +10,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team y yo
-* Incluye ejemplos en Windows, Linux y Mac
-* Disponible para todas las edades
+* Incluye ejemplos en Windows, Linux y Mac OS
+* Está disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es una copia de Platzi**.  Diseñado para el ejemplo. Si llegas acá mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
